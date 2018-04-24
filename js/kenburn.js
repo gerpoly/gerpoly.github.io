@@ -1,0 +1,1 @@
+$(".kenbarn").vegas({overlay:!0,transition:"fade",transitionDuration:4e3,delay:1e4,animation:"random",animationDuration:2e4,slides:[{src:"/images/slider/kenburn-1.jpg"},{src:"/images/slider/kenburn-2.jpg"},{src:"/images/slider/kenburn-3.jpg"}]});
